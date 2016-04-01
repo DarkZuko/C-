@@ -1,0 +1,15 @@
+[Main]
+Dir=C:\Nexon\MapleStory\MapleStory.exe
+Name=Default
+Delay=60
+Embeded=TRUE
+Hidden=FALSE
+[Info]
+ID=
+PW=
+PIC=
+Char=
+Server=
+Channel=
+[Startups]
+Tubi=FALSE
